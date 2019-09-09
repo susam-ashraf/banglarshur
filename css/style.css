@@ -1,0 +1,114 @@
+
+/*---------------------- header --------------------------*/
+
+.navbar-inverse .navbar-nav>li>a {
+    color: #fff;
+    font-weight: bold;
+}
+.navbar-nav>li>a {
+    padding-top: 25px !important;
+    padding-bottom: 25px !important;
+}
+.navbar>.container .navbar-brand, .navbar>.container-fluid .navbar-brand {
+    margin-left: -15px;
+    margin-top: 11px;
+    font-weight: bold;
+    margin-right: 30px;
+    color: #fff;
+}
+#navbar_top .navbar-form {
+    margin-top: 20px;
+}
+.navbar-inverse {
+    background-color: #3c8dbc;
+    border-color: #101010;
+}
+html,body {
+background-color:#ecf0f5;
+}
+
+    /*------------- owl -------------*/
+
+.owl-buttons {
+  display: none;
+}
+.owl-carousel:hover .owl-buttons {
+  display: block;
+}
+
+.owl-item {
+    text-align: center;
+    width: 190px !important;
+    height: 190px !important;
+    padding:25px;
+}
+.owl-item img{
+    height: 165px;
+    width: 165px;
+    border-radius: 10px;
+}
+
+.owl-theme .owl-controls .owl-buttons div {
+  background: transparent;
+  color: #869791;
+  font-size: 40px;
+  line-height: 300px;
+  margin: 0;
+  padding: 0 0px;
+  position: absolute;
+  top: 0;
+}
+.owl-theme .owl-controls .owl-buttons .owl-prev {
+  left: -61px;
+  padding-left: 0px;
+}
+.owl-theme .owl-controls .owl-buttons .owl-next {
+  right: -61px;
+  padding-right: 0px;
+}
+
+    /*------------- owl -------------*/
+
+/*-------------------------------------- romantic -------------------------*/
+
+#romantic{
+    margin-top: 50px;
+}
+.category_top h4{
+    font-weight: bold;
+    color: #5399C2;
+}
+.category_top a{
+    font-weight: bold;
+    color: #5399C2;
+    text-decoration: none;
+}
+.fa-inverse {
+    color: #5399C2;
+}
+.owl-theme .owl-controls .owl-buttons div {
+    color: #000;
+}
+
+#ctgry_thmbnl img{
+    width: 185px;
+    height: 170px;
+    margin-left: 20px;
+    
+}
+.title{
+    margin-left: 25px;
+}
+.title h3{
+     font-weight: bold;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+.view_link{
+    margin-right: 60px;
+}.view_link p{
+    font-weight: bold;
+}
+#ctgry_thmbnl{
+    margin-bottom: 50px;
+}
